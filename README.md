@@ -4,12 +4,21 @@ A _famous_ furry developer in CN.
 
 **中国の獣人愛好者中"有名な開発者"**
 
+## 简介
+
+中文 | [Other Language](README_i18n)
+
 Harry，18岁，学历不详，申请根服务器，发律师函，帮学校买硫酸，自建三级等保服务器，自己有企业，和国外大企业合作，可以不用交税，按斤批发义乌毛布，给其他人提供身份证指纹认证，搭建物理通讯通道，说自己是实习生，16岁买五险一金到现在，国内首创 Anycast 网络提供商……其他有待补充，欢迎PR.
 
-Harry, 18, with unknown education background, applied for root server, sent a lawyer's letter, helped the school buy sulfuric acid and built a self built three-level insurance server. He has his own enterprise and cooperates with large foreign enterprises. He can wholesale Yiwu woolen cloth by kilogram without paying tax, provide ID card fingerprint authentication for others, build physical communication channels, and say he is an intern. At the age of 16, he bought five insurances and one fund. Up to now, he is the first anycast network provider in China... Others need to be added. Welcome to pr
+## 事件
 
-Harry、18歳、学歴不詳。ルートサーバー申請、弁護士文書送付、学校に硫酸購入、自分で3級保証サーバーを建立、自分の企業が有る、外国大企業と協力、税金支払いなしでも無事、半キログラムによる義烏毛布卸売り、他人に身分証明書による指紋認証を提供、物理的な通信通路を建立、16歳から現在まで医疗保険や养老保険などを掛ける、中国国内最速Anycastプロバイダー建立...他の补充をお待ちしています。情報が知ってたらぜひPRしてください。
+### 1. 关于枫崽的毛差点被拐走的事情
 
-Harry, 18세, 학력 불명, 루트 서버 신청, 변호사 서한, 학교 황산 구매, 3급 보험 서버 자체 구축, 자신이 기업이 있고 외국 대기업과 합작, 세금 납부 없이 이우모포를 근에 도매, 다른 사람에게 신분증 지문 인증, 물리 통신 통로 구축, 실습생이라고 말하기, 16세에 5가지 보험을 사서 지금까지 국내 최초로 Anycast 네트워크 제공 업체...다른 보완 필요, PR 환영
+[事件全程](assets/1.%20%E5%85%B3%E4%BA%8E%E6%9E%AB%E5%B4%BD%E7%9A%84%E6%AF%9B%E5%B7%AE%E7%82%B9%E8%A2%AB%E6%8B%90%E8%B5%B0%E7%9A%84%E4%BA%8B%E6%83%85/%E5%85%B3%E4%BA%8E%E6%9E%AB%E5%B4%BD%E7%9A%84%E6%AF%9B%E5%B7%AE%E7%82%B9%E8%A2%AB%E6%8B%90%E8%B5%B0%E7%9A%84%E4%BA%8B%E6%83%85)
 
-Гарри, 18 лет, образование неизвестно, подать заявку на корневой сервер, отправить письмо адвокату, помочь школе купить серную кислоту, построить свой собственный сервер эквивалентности уровня 3, иметь свой бизнес, сотрудничать с крупными иностранными компаниями, не платить налоги, оптовая торговля шерстяными тканями Yiwu по фунту, обеспечить идентификацию отпечатков пальцев для других, построить физические каналы связи, сказать, что вы стажер, купить пять страховок в 16 до сих пор, первый отечественный провайдер Anycast сети...... другие будут добавлены, PR приветствуется.
+自称是某毛毛纪念馆的主理人，再三强调自己所谓的身份，以此借着“毛毛入殓师”的名义，想把逸枫的毛占为己有，多次声明自己患有胃癌与罕见的病，以死相胁，来博取其他人同情。
+
+harry自己表明枫母已经把枫崽的毛托付给了他，也包括枫崽的个人信息，但由于某些缘由和枫崽的朋友紫枫聊天确认过后，发现harry说的很多话漏洞百出，情急之下便联系了枫母，表明来意（harry可能想把毛占为己有，或者是用于其他不好的地方）之后，枫母作出了更改收货地址的决定，寄到更安全的地方，但枫母不希望和harry之间发生争执，于是用了委婉的方法告诉他更改地址的消息。
+
+>   但愿枫崽的毛毛能够拥有一个好的归宿以告他的在天之灵吧。
+    若是还有来生，但愿每次相遇，都能化为永恒，晚安，小可爱。
