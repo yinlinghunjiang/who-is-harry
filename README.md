@@ -6,7 +6,7 @@ A _famous_ furry developer in CN.
 
 ## 简介
 
-中文 | [Other Language](README_i18n.md)
+中文 | [Select Other Language/他の言語を選択](i18n/list.md)
 
 Harry，18岁，学历不详，申请根服务器，发律师函，帮学校买硫酸，自建三级等保服务器，自己有企业，和国外大企业合作，可以不用交税，按斤批发义乌毛布，给其他人提供身份证指纹认证，搭建物理通讯通道，说自己是实习生，16岁买五险一金到现在，国内首创 Anycast 网络提供商……其他有待补充，欢迎PR.
 
