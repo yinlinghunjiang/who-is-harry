@@ -4,7 +4,7 @@
 |Language / 语言 / 言語|Description / 说明 / 説明|
 |---|---|
 |[ja_JP](ja_JP.md)|日本語翻訳 by [@awathefox](https://github.com/awathefox)|
-|[zh_CN@esu](zh_CN@esu.md)|垃圾话翻译 作者[@awathefox](https://github.com/awathefox)|
+|[zh_CN@esu](zh_CN%40esu.md)|垃圾话翻译 作者[@awathefox](https://github.com/awathefox)|
 |[ko_KP](ko_KP.md)|조선말번역 by [@mrhso](https://github.com/mrhso)|
 ## Please read following notes if you want to translate this project.
 ## 如果您想翻译这个项目，请阅读以下说明。
